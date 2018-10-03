@@ -31,6 +31,6 @@ li a {
   text-align: center;
 }
 body {
-    background-image: url("fieldbackground.jpg");
+    background-color: green;
     color: white;
 }
