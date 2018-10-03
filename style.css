@@ -1,0 +1,36 @@
+header{
+    width: 50%;
+    border: 25px solid red;
+    padding: 10px;
+    margin: auto;
+  }
+html{
+  text-align: center;
+}
+  table {
+  text-align: center;
+  border: 1px solid black;
+  margin: 0 auto;
+}
+th,td {
+    border-bottom: 1px solid #ddd;
+}
+ul,ol {
+display: inline-block;
+  margin: 0 auto;
+}
+nav li {
+    display: inline-block;
+    margin:0 30px;
+    width: 120px;
+    background-color: purple;
+    text-align: center;
+}
+li a {
+  color: white;
+  text-align: center;
+}
+body {
+    background-image: url("fieldbackground.jpg");
+    color: white;
+}
